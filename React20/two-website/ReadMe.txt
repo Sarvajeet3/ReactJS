@@ -1,0 +1,1 @@
+This Project is about converting normal template into Dynamic React.JS template
